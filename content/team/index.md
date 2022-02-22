@@ -4,7 +4,7 @@ description:
 type: about
 menu:
   main:
-    name: About
+    name: Team
     weight: 3
   footer:
     name: About
