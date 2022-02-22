@@ -18,13 +18,6 @@ unsafe = true
 
 [menu]
 
-[[menu.main]]
-identifier = "login"
-name = "login"
-url = "/"
-weight = 110
-[menu.main.params]
-  new_window = true
 
 [[menu.main]]
 identifier = "signup"
