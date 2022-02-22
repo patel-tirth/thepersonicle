@@ -1,9 +1,6 @@
 - section:
-  - name: Login
-    link: /
-    new_window: true
   - name: Sign Up
-    link: /
+    link: https://personicle-341023.uc.r.appspot.com
     new_window: true
   - name: Docs
     link: /
