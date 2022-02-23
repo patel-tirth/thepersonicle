@@ -1,8 +1,8 @@
 ---
 title: Project Description
-heading: Current Development
+heading: Project Description
 description:
-type: pricing
+type: projdescription
 menu:
   main:
     weight: 1

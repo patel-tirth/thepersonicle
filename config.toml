@@ -22,7 +22,7 @@ unsafe = true
 [[menu.main]]
 identifier = "signup"
 name = "Sign Up"
-url = "/"
+url = "https://personicle-341023.uc.r.appspot.com"
 weight = 111
 [menu.main.params]
   new_window = true
