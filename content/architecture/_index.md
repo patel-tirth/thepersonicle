@@ -1,7 +1,7 @@
 ---
-title: Architecture
-heading: Architecture
-description: Architecture
+title: Project Description
+heading: Current Development
+description:
 type: pricing
 menu:
   main:
@@ -27,6 +27,9 @@ pricing_table:
     call_to_action:
       link: http://mysite.com?plan=professional
       text: Get started
+# faq:
+#   - question: Questions?
+#     answer: Contact us for any further questions at <a href="#">john@business.com</a>.
 _enabled_editors:
   - visual
   - content
