@@ -1,6 +1,6 @@
 ---
-title: Project Description
-heading: Current Development
+title: Architecture
+heading: Architecture
 description:
 type: pricing
 menu:
