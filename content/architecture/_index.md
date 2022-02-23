@@ -2,7 +2,7 @@
 title: Architecture
 heading: Architecture
 description: Architecture
-type: architecture
+type: pricing
 menu:
   main:
     weight: 1
