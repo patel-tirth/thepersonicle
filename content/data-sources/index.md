@@ -1,5 +1,5 @@
 ---
-title: [Data Sources](https://github.com/vin-clearsense/Personicle#types-of-personal-data)
+title: Data Sources
 heading: Data Sources
 description:
 type: datasources
