@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Project Description
 heading: Current Development
 description:
@@ -35,4 +35,4 @@ _enabled_editors:
   - content
   - source
 ---
-
+ -->
